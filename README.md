@@ -1,6 +1,6 @@
 # Matlab Appdesinger实现运行指示灯
 
-#### Implementing the Operation Indicator with the Matlab Appdesigner Lamp
+Implementing the Operation Indicator with the Matlab Appdesigner Lamp
 
 ## 一、前言
 
